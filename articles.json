@@ -2,25 +2,25 @@
   "articles": [
     {
       "id": "a-0001",
-      "title": "Markets Rally as Tech Leads Gains",
-      "description": "Stocks climbed broadly with technology shares outperforming amid upbeat earnings.",
-      "content": "Full article content goes here (optional).",
-      "url": "https://example.com/business/markets-rally-tech",
+      "title": "India’s Dog Bite Crisis: Around 22 Lakh Cases Reported in 2024",
+      "description": "Government data shows nearly 22 lakh dog bite cases in India in 2024, with over 5 lakh victims under 15 years of age.",
+      "content": "About 21,95,122 dog bite cases and 37 deaths were reported in India during 2024 (January–December), according to a written reply in the Lok Sabha by the Union Minister for Fisheries, Animal Husbandry and Dairying. Of these, 519,704 cases involved children under 15 years of age. The figures were reported by states and Union Territories on the Integrated Disease Surveillance Programme portal under the Ministry of Health and Family Welfare. Stray dogs and animal bite incidents remain a public health challenge, with local authorities responsible for managing stray animal controls and related measures. (Source: Indian Express, Feb 5, 2025)",
+      "url": "https://indianexpress.com/article/india/dog-bite-cases-reported-in-2024-children-victims-9817586/",
       "imageUrl": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?w=1200&auto=format&fit=crop",
       "publisher": {
-        "name": "Example Business Daily",
-        "url": "https://example.com",
-        "logoUrl": "https://dummyimage.com/64x64/222/fff.png&text=EBD"
+        "name": "The Indian Express",
+        "url": "https://indianexpress.com",
+        "logoUrl": "https://static.indianexpress.com/wp-content/uploads/2022/03/IndianExpress_Logo.png"
       },
-      "author": "Jordan Lee",
-      "publishedAt": "2025-11-18T09:10:00Z",
-      "updatedAt": "2025-11-18T12:30:00Z",
+      "author": "Harikishan Sharma",
+      "publishedAt": "2025-02-05T10:33:00Z",
+      "updatedAt": "2025-02-05T10:33:00Z",
       "language": "en",
-      "country": "US",
-      "category": "Business",
-      "tags": ["markets", "earnings", "tech"],
-      "readingTimeMinutes": 5,
-      "sourceType": "Magazine"
+      "country": "IN",
+      "category": "News",
+      "tags": ["dog bite cases", "India", "health", "children", "2024"],
+      "readingTimeMinutes": 3,
+      "sourceType": "News Website"
     },
     {
       "id": "a-0002",
