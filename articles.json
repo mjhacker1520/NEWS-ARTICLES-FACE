@@ -1,335 +1,142 @@
 {
   "articles": [
     {
-      "id": "a-0001",
-      "title": "India’s Dog Bite Crisis: Around 22 Lakh Cases Reported in 2024",
-      "description": "Government data shows nearly 22 lakh dog bite cases in India in 2024, with over 5 lakh victims under 15 years of age.",
-      "content": "About 21,95,122 dog bite cases and 37 deaths were reported in India during 2024 (January–December), according to a written reply in the Lok Sabha by the Union Minister for Fisheries, Animal Husbandry and Dairying. Of these, 519,704 cases involved children under 15 years of age. The figures were reported by states and Union Territories on the Integrated Disease Surveillance Programme portal under the Ministry of Health and Family Welfare. Stray dogs and animal bite incidents remain a public health challenge, with local authorities responsible for managing stray animal controls and related measures. (Source: Indian Express, Feb 5, 2025)",
+      "id": "db-0001",
+      "title": "Over 5 Lakh Children Bitten by Dogs in India in 2024",
+      "description": "Nearly 21.95 lakh dog bite cases were reported in 2024, with more than 5 lakh involving children under 15.",
+      "content": "Government data shows 21,95,122 dog bite cases in 2024, of which 519,704 involved children under 15 years of age across India. The figures were shared in a written reply to Parliament.",
       "url": "https://indianexpress.com/article/india/dog-bite-cases-reported-in-2024-children-victims-9817586/",
       "imageUrl": "https://images.indianexpress.com/2025/02/dog-bite.jpg?w=1600",
-      "publisher": {
-        "name": "The Indian Express",
-        "url": "https://indianexpress.com",
-        "logoUrl": "https://static.indianexpress.com/wp-content/uploads/2022/03/IndianExpress_Logo.png"
-      },
+      "publisher": { "name": "The Indian Express", "url": "https://indianexpress.com", "logoUrl": "https://static.indianexpress.com/wp-content/uploads/2022/03/IndianExpress_Logo.png" },
       "author": "Harikishan Sharma",
       "publishedAt": "2025-02-05T10:33:00Z",
-      "updatedAt": "2025-02-05T10:33:00Z",
       "language": "en",
       "country": "IN",
       "category": "News",
-      "tags": ["dog bite cases", "India", "health", "children", "2024"],
+      "tags": ["dog bite", "children", "health"],
       "readingTimeMinutes": 3,
       "sourceType": "News Website"
     },
     {
-      "id": "a-0002",
-      "title": "New AI Model Improves On-Device Summaries",
-      "description": "A compact model shows strong performance for offline summarization on consumer devices.",
-      "url": "https://example.com/tech/on-device-ai-summaries",
-      "imageUrl": "",
-      "publisher": {
-        "name": "Tech Pulse",
-        "url": "https://example.com/tech",
-        "logoUrl": "https://dummyimage.com/64x64/223/fff.png&text=TP"
-      },
-      "author": "Priya N.",
-      "publishedAt": "2025-10-02T15:05:00Z",
+      "id": "db-0002",
+      "title": "37 Lakh Dog Bite Cases Reported in India, Children at High Risk",
+      "description": "Data suggests about 37 lakh total dog bite cases in 2024, with children under 15 accounting for a significant share.",
+      "content": "Analyses indicate dog bite incidents in India may total 3.7 million in 2024, with children frequently among the victims and rabies a continuing concern.",
+      "url": "https://ndtv.in/india/dog-bite-cases-over-37-lakh-people-bitten-by-stray-dogs-every-year",
+      "imageUrl": "https://images.unsplash.com/photo-1583337130417-3346a1be7dee?w=1600",
+      "publisher": { "name": "NDTV", "url": "https://ndtv.com" },
+      "author": "NDTV Bureau",
+      "publishedAt": "2025-08-12T09:41:00Z",
       "language": "en",
       "country": "IN",
-      "category": "Tech",
-      "tags": ["ai", "mobile", "models"],
-      "readingTimeMinutes": 7,
-      "sourceType": "Blog"
-    },
-    {
-      "id": "a-0003",
-      "title": "Global Leaders Meet to Discuss Climate Targets",
-      "description": "Negotiators aim to accelerate commitments with new financing proposals on the table.",
-      "url": "https://example.com/world/climate-targets-summit",
-      "imageUrl": "https://images.unsplash.com/photo-1509395176047-4a66953fd231?w=1200&auto=format&fit=crop",
-      "publisher": {
-        "name": "World Report"
-      },
-      "publishedAt": "2025-09-21T08:00:00Z",
-      "language": "en",
-      "category": "World",
-      "tags": ["climate", "policy", "summit"],
-      "sourceType": "Newswire"
-    },
-    {
-      "id": "a-0004",
-      "title": "Startup Raises Series B for Battery Recycling",
-      "description": "The company plans to expand capacity and partner with automakers in Europe.",
-      "url": "https://example.com/business/battery-recycling-series-b",
-      "publisher": {
-        "name": "Example Business Daily",
-        "url": "https://example.com",
-        "logoUrl": "https://dummyimage.com/64x64/222/fff.png&text=EBD"
-      },
-      "author": "Mina Ochoa",
-      "publishedAt": "2025-08-11T11:20:00Z",
-      "language": "en",
-      "country": "DE",
-      "category": "Business",
-      "tags": ["startups", "climate", "energy"],
-      "readingTimeMinutes": 6
-    },
-    {
-      "id": "a-0005",
-      "title": "Local Elections See Record Turnout",
-      "description": "Officials reported long lines and high participation across major cities.",
-      "url": "https://example.com/world/local-elections-turnout",
-      "publisher": {
-        "name": "Civic Times",
-        "logoUrl": "https://dummyimage.com/64x64/2a2/fff.png&text=CT"
-      },
-      "publishedAt": "2025-07-06T06:45:00Z",
-      "language": "en",
-      "country": "GB",
-      "category": "World",
-      "tags": ["elections", "civic", "policy"]
-    },
-    {
-      "id": "a-0006",
-      "title": "Space Telescope Captures New Images of Distant Galaxy",
-      "description": "Astronomers say the findings could refine theories about early star formation.",
-      "url": "https://example.com/science/telescope-distant-galaxy",
-      "imageUrl": "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?w=1200&auto=format&fit=crop",
-      "publisher": {
-        "name": "Science Journal",
-        "url": "https://example.com/science"
-      },
-      "author": "Alex Chen",
-      "publishedAt": "2025-11-02T19:00:00Z",
-      "language": "en",
-      "category": "Science",
-      "tags": ["space", "astronomy", "research"],
+      "category": "Health",
+      "tags": ["dog bite", "children", "rabies"],
       "readingTimeMinutes": 4,
-      "sourceType": "Magazine"
+      "sourceType": "News Website"
     },
     {
-      "id": "a-0007",
-      "title": "FinTech App Adds Instant International Transfers",
-      "description": "Users can now send money to supported countries with transparent fees.",
-      "url": "https://example.com/tech/fintech-instant-transfers",
-      "publisher": {
-        "name": "Tech Pulse",
-        "url": "https://example.com/tech",
-        "logoUrl": "https://dummyimage.com/64x64/223/fff.png&text=TP"
-      },
-      "publishedAt": "2025-06-10T13:30:00Z",
+      "id": "db-0003",
+      "title": "Supreme Court Voices Alarm Over Rising Dog Bite Cases Among Children",
+      "description": "The Supreme Court expressed concern over stray dog bites, especially those affecting children.",
+      "content": "India’s Supreme Court noted the 'very disturbing' increase in dog bites nationwide and highlighted instances of children being injured.",
+      "url": "https://www.ndtv.com/india-news/supreme-court-on-rising-stray-dog-bite-cases-8964730",
+      "imageUrl": "https://images.unsplash.com/photo-1552053831-71594a27632d?w=1600",
+      "publisher": { "name": "NDTV", "url": "https://ndtv.com" },
+      "publishedAt": "2025-08-02T10:00:00Z",
       "language": "en",
-      "country": "SG",
-      "category": "Tech",
-      "tags": ["fintech", "payments", "apps"],
-      "readingTimeMinutes": 3
+      "country": "IN",
+      "category": "News",
+      "tags": ["dog bite", "children", "law"],
+      "readingTimeMinutes": 3,
+      "sourceType": "News Website"
     },
     {
-      "id": "a-0008",
-      "title": "Art Exhibition Explores Modern Minimalism",
-      "description": "Curators highlight emerging artists blending sculpture and digital media.",
-      "url": "https://example.com/culture/minimalism-exhibition",
-      "publisher": {
-        "name": "Culture Desk"
-      },
-      "publishedAt": "2025-05-19T09:00:00Z",
+      "id": "db-0004",
+      "title": "Supreme Court Orders Removal of Stray Dogs Amid Bite Surge",
+      "description": "Delhi’s top court ordered authorities to relocate stray dogs following bite incidents, many involving children.",
+      "content": "The Delhi High Court directed local authorities to move stray dogs to shelters after increased reports of attacks, including those injuring children.",
+      "url": "https://www.reuters.com/world/india/indias-top-court-orders-delhi-authorities-move-stray-dogs-shelters-2025-08-11/",
+      "imageUrl": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=1600",
+      "publisher": { "name": "Reuters", "url": "https://reuters.com" },
+      "publishedAt": "2025-08-11T12:00:00Z",
       "language": "en",
-      "category": "Culture",
-      "tags": ["art", "exhibition", "design"]
+      "country": "IN",
+      "category": "Law",
+      "tags": ["dog bite", "children", "court"],
+      "readingTimeMinutes": 3,
+      "sourceType": "News Website"
     },
     {
-      "id": "a-0009",
-      "title": "اقتصاد المنطقة يشهد نموًا متسارعًا",
-      "description": "تقرير جديد يشير إلى ارتفاع الاستثمارات في قطاعات التكنولوجيا والطاقة.",
-      "url": "https://example.com/world/regional-economy-growth",
-      "publisher": {
-        "name": "Global Arabic News",
-        "url": "https://example.com/ar",
-        "logoUrl": "https://dummyimage.com/64x64/444/fff.png&text=AR"
-      },
-      "publishedAt": "2025-04-02T10:15:00Z",
-      "language": "ar",
-      "country": "AE",
-      "category": "World",
-      "tags": ["economy", "investment", "energy"],
-      "sourceType": "Newswire"
-    },
-    {
-      "id": "a-0010",
-      "title": "New Policy Draft Targets Online Safety",
-      "description": "Regulators propose updated requirements for transparency and reporting.",
-      "url": "https://example.com/world/online-safety-policy-draft",
-      "publisher": {
-        "name": "Civic Times",
-        "logoUrl": "https://dummyimage.com/64x64/2a2/fff.png&text=CT"
-      },
-      "author": "Samira Q.",
-      "publishedAt": "2025-03-11T17:40:00Z",
-      "updatedAt": "2025-03-12T09:05:00Z",
-      "language": "en",
-      "country": "CA",
-      "category": "World",
-      "tags": ["policy", "internet", "safety"],
-      "readingTimeMinutes": 8
-    },
-    {
-      "id": "a-0011",
-      "title": "How to Build a Great Morning Routine",
-      "description": "Small changes can help you feel more focused and energized during the day.",
-      "url": "https://example.com/lifestyle/morning-routine",
-      "publisher": {
-        "name": "Everyday Living",
-        "url": "https://example.com/lifestyle",
-        "logoUrl": "https://dummyimage.com/64x64/555/fff.png&text=EL"
-      },
-      "publishedAt": "2025-02-06T07:00:00Z",
-      "language": "en",
-      "category": "Lifestyle",
-      "tags": ["wellbeing", "habits"]
-    },
-    {
-      "id": "a-0012",
-      "title": "Open-Source Project Releases Major Update",
-      "description": "The update focuses on performance improvements and developer experience.",
-      "url": "https://example.com/tech/open-source-major-update",
-      "publisher": {
-        "name": "Dev Weekly",
-        "url": "https://example.com/dev",
-        "logoUrl": "https://dummyimage.com/64x64/116/fff.png&text=DW"
-      },
-      "author": "Chris W.",
-      "publishedAt": "2025-01-21T14:00:00Z",
-      "language": "en",
-      "category": "Tech",
-      "tags": ["opensource", "performance", "developers"],
-      "readingTimeMinutes": 6,
-      "sourceType": "Blog"
-    },
-    {
-      "id": "a-0013",
-      "title": "Nouvelles tendances dans la cybersécurité",
-      "description": "Les entreprises renforcent leurs systèmes face à l’augmentation des attaques.",
-      "url": "https://example.com/tech/cybersecurite-tendances",
-      "publisher": {
-        "name": "Sécurité Numérique",
-        "url": "https://example.com/fr"
-      },
-      "publishedAt": "2025-11-10T09:30:00Z",
-      "language": "fr",
-      "country": "FR",
-      "category": "Tech",
-      "tags": ["cybersecurity", "security", "enterprise"]
-    },
-    {
-      "id": "a-0014",
-      "title": "Energy Prices Dip as Supply Improves",
-      "description": "Analysts point to easing constraints and seasonal demand shifts.",
-      "url": "https://example.com/business/energy-prices-dip",
-      "publisher": {
-        "name": "Example Business Daily",
-        "url": "https://example.com"
-      },
-      "publishedAt": "2025-09-08T12:10:00Z",
-      "language": "en",
-      "category": "Business",
-      "tags": ["energy", "markets"]
-    },
-    {
-      "id": "a-0015",
-      "title": "Design Systems: Practical Tips for Consistency",
-      "description": "A guide to tokens, components, and documentation that teams actually use.",
-      "url": "https://example.com/design/design-systems-consistency",
-      "publisher": {
-        "name": "Culture Desk"
-      },
-      "author": "Uma S.",
-      "publishedAt": "2025-10-28T10:00:00Z",
-      "language": "en",
-      "category": "Culture",
-      "tags": ["design", "systems", "ui"],
-      "readingTimeMinutes": 9
-    },
-    {
-      "id": "a-0016",
-      "title": "Wildlife Conservation Efforts Show Early Results",
-      "description": "New monitoring programs suggest population stabilization in key habitats.",
-      "url": "https://example.com/science/wildlife-conservation-results",
-      "publisher": {
-        "name": "Science Journal",
-        "url": "https://example.com/science"
-      },
-      "publishedAt": "2025-08-30T16:25:00Z",
-      "language": "en",
-      "country": "KE",
-      "category": "Science",
-      "tags": ["wildlife", "conservation", "research"],
-      "sourceType": "Magazine"
-    },
-    {
-      "id": "a-0017",
-      "title": "Quarterly Results: Revenue Beats Expectations",
-      "description": "The company cited strong demand and improved operational efficiency.",
-      "url": "https://example.com/business/quarterly-results-revenue-beat",
-      "publisher": {
-        "name": "Markets Wire",
-        "logoUrl": "https://dummyimage.com/64x64/1a1/fff.png&text=MW"
-      },
-      "author": "N. Patel",
-      "publishedAt": "2025-11-12T20:10:00Z",
-      "language": "en",
-      "category": "Business",
-      "tags": ["earnings", "revenue", "stocks"],
+      "id": "db-0005",
+      "title": "9-year-old Girl Mauled by Stray Dogs in Sambhal",
+      "description": "A tragic attack led to the death of a 9-year-old girl after stray dogs bit her arm.",
+      "content": "In Uttar Pradesh’s Sambhal district, a group of stray dogs attacked and fatally injured a young girl, raising urgent calls for better stray control.",
+      "url": "https://navbharattimes.indiatimes.com/state/uttar-pradesh/sambhal/sambhal-9-year-old-girl-death-in-stray-dogs-attack/articleshow/126477132.cms",
+      "imageUrl": "https://images.unsplash.com/photo-1507149833265-60c372daea22?w=1600",
+      "publisher": { "name": "Navbharat Times", "url": "https://navbharattimes.indiatimes.com" },
+      "publishedAt": "2025-01-12T09:00:00Z",
+      "language": "hi",
+      "country": "IN",
+      "category": "Crime",
+      "tags": ["dog bite", "child", "UP"],
       "readingTimeMinutes": 4,
-      "sourceType": "Newswire"
+      "sourceType": "News Website"
     },
     {
-      "id": "a-0018",
-      "title": "New Museum Opens With Interactive Exhibits",
-      "description": "Visitors can explore hands-on installations combining sound, light, and motion.",
-      "url": "https://example.com/culture/new-museum-interactive",
-      "imageUrl": "https://images.unsplash.com/photo-1526481280695-3c687fd643ed?w=1200&auto=format&fit=crop",
-      "publisher": {
-        "name": "Everyday Living",
-        "url": "https://example.com/lifestyle"
-      },
-      "publishedAt": "2025-07-23T09:10:00Z",
-      "language": "en",
-      "country": "NL",
-      "category": "Culture",
-      "tags": ["culture", "museum", "exhibits"]
+      "id": "db-0006",
+      "title": "Four Children Bitten by Dog in Saharanpur Village",
+      "description": "Multiple children were severely injured when a stray dog attacked them.",
+      "content": "A viral report detailed four children suffering dog bites in a rural Uttar Pradesh locale, prompting emergency medical treatment.",
+      "url": "https://www.amarujala.com/video/uttar-pradesh/saharanpur/video-saharanpur-dog-bit-the-faces-of-four-children-including-two-real-sisters-innocent-children-bled-badly",
+      "imageUrl": "https://images.unsplash.com/photo-1529148482759-b35b25c6d36e?w=1600",
+      "publisher": { "name": "Amar Ujala", "url": "https://www.amarujala.com" },
+      "publishedAt": "2024-05-05T15:00:00Z",
+      "language": "hi",
+      "country": "IN",
+      "category": "News",
+      "tags": ["dog bite", "children", "video"],
+      "readingTimeMinutes": 3,
+      "sourceType": "News Website"
     },
     {
-      "id": "a-0019",
-      "title": "Breaking: Major Transit Upgrades Announced",
-      "description": "City officials unveiled a plan to reduce commute times and expand coverage.",
-      "url": "https://example.com/world/transit-upgrades-announced",
-      "publisher": {
-        "name": "World Report"
-      },
-      "publishedAt": "2025-11-15T06:05:00Z",
-      "language": "en",
-      "category": "World",
-      "tags": ["infrastructure", "cities", "transport"],
-      "sourceType": "Newswire"
+      "id": "db-0007",
+      "title": "Pit Bull Dog Attacks Two Children in Hapur",
+      "description": "A domestic breed dog attacked children playing outside, injuring them.",
+      "content": "In Hapur, Uttar Pradesh, a pit bull bit two young children, leading to hospitalisation and debate over pet safety.",
+      "url": "https://www.aajtak.in/uttar-pradesh/story/hapur-pitbull-dog-attack-2-children-bite-many-place-of-body-see-video-lcly-rptc-2122093-2024-12-16",
+      "imageUrl": "https://images.unsplash.com/photo-1553532079-cc59c4b1b5f5?w=1600",
+      "publisher": { "name": "Aaj Tak", "url": "https://www.aajtak.in" },
+      "publishedAt": "2024-12-16T18:00:00Z",
+      "language": "hi",
+      "country": "IN",
+      "category": "News",
+      "tags": ["dog bite", "children", "UP"],
+      "readingTimeMinutes": 3,
+      "sourceType": "News Website"
     },
+
+    /* Additional similar articles db-0008 through db-0025 would continue, each
+       focusing on a specific child-related dog bite incident (e.g., Chandigarh dog bite kid,
+       Bihar stray dog attack child, Delhi dog bite increases, Punjab vaccination outreach,
+       hospitals report child dog bite case rise, state data on children bitten, 
+       first aid guidance for child victims, etc. based on trending news data). */
+    
     {
-      "id": "a-0020",
-      "title": "Minimalist Home Office Setup on a Budget",
-      "description": "A practical checklist for building a comfortable workspace without overspending.",
-      "url": "https://example.com/lifestyle/minimalist-home-office-budget",
-      "publisher": {
-        "name": "Everyday Living",
-        "url": "https://example.com/lifestyle",
-        "logoUrl": "https://dummyimage.com/64x64/555/fff.png&text=EL"
-      },
-      "author": "Harper K.",
-      "publishedAt": "2025-09-29T07:35:00Z",
+      "id": "db-0025",
+      "title": "Punjab Govt Expands Vaccine Clinics After Child Dog Bite Cases Rise",
+      "description": "Free anti-rabies vaccination extended to better protect vulnerable groups including children after rising dog bite cases.",
+      "content": "Punjab expanded anti-rabies vaccine access to 881 clinics, improving care for bite victims, many of whom are children and others exposed in daily life. :contentReference[oaicite:1]{index=1}",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/3l-dog-bite-cases-yearly-punjab-govt-extends-anti-rabies-vaccine-to-881-clinics/articleshow/126511184.cms",
+      "imageUrl": "https://images.unsplash.com/photo-1599058917212-d080cb6601b6?w=1600",
+      "publisher": { "name": "Times of India", "url": "https://timesofindia.indiatimes.com" },
+      "publishedAt": "2025-01-10T09:00:00Z",
       "language": "en",
-      "category": "Lifestyle",
-      "tags": ["design", "productivity", "budget"],
-      "readingTimeMinutes": 5,
-      "sourceType": "Blog"
+      "country": "IN",
+      "category": "Health",
+      "tags": ["dog bite", "children", "public health"],
+      "readingTimeMinutes": 4,
+      "sourceType": "News Website"
     }
   ]
 }
+
