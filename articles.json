@@ -1,0 +1,335 @@
+{
+  "articles": [
+    {
+      "id": "a-0001",
+      "title": "Markets Rally as Tech Leads Gains",
+      "description": "Stocks climbed broadly with technology shares outperforming amid upbeat earnings.",
+      "content": "Full article content goes here (optional).",
+      "url": "https://example.com/business/markets-rally-tech",
+      "imageUrl": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?w=1200&auto=format&fit=crop",
+      "publisher": {
+        "name": "Example Business Daily",
+        "url": "https://example.com",
+        "logoUrl": "https://dummyimage.com/64x64/222/fff.png&text=EBD"
+      },
+      "author": "Jordan Lee",
+      "publishedAt": "2025-11-18T09:10:00Z",
+      "updatedAt": "2025-11-18T12:30:00Z",
+      "language": "en",
+      "country": "US",
+      "category": "Business",
+      "tags": ["markets", "earnings", "tech"],
+      "readingTimeMinutes": 5,
+      "sourceType": "Magazine"
+    },
+    {
+      "id": "a-0002",
+      "title": "New AI Model Improves On-Device Summaries",
+      "description": "A compact model shows strong performance for offline summarization on consumer devices.",
+      "url": "https://example.com/tech/on-device-ai-summaries",
+      "imageUrl": "",
+      "publisher": {
+        "name": "Tech Pulse",
+        "url": "https://example.com/tech",
+        "logoUrl": "https://dummyimage.com/64x64/223/fff.png&text=TP"
+      },
+      "author": "Priya N.",
+      "publishedAt": "2025-10-02T15:05:00Z",
+      "language": "en",
+      "country": "IN",
+      "category": "Tech",
+      "tags": ["ai", "mobile", "models"],
+      "readingTimeMinutes": 7,
+      "sourceType": "Blog"
+    },
+    {
+      "id": "a-0003",
+      "title": "Global Leaders Meet to Discuss Climate Targets",
+      "description": "Negotiators aim to accelerate commitments with new financing proposals on the table.",
+      "url": "https://example.com/world/climate-targets-summit",
+      "imageUrl": "https://images.unsplash.com/photo-1509395176047-4a66953fd231?w=1200&auto=format&fit=crop",
+      "publisher": {
+        "name": "World Report"
+      },
+      "publishedAt": "2025-09-21T08:00:00Z",
+      "language": "en",
+      "category": "World",
+      "tags": ["climate", "policy", "summit"],
+      "sourceType": "Newswire"
+    },
+    {
+      "id": "a-0004",
+      "title": "Startup Raises Series B for Battery Recycling",
+      "description": "The company plans to expand capacity and partner with automakers in Europe.",
+      "url": "https://example.com/business/battery-recycling-series-b",
+      "publisher": {
+        "name": "Example Business Daily",
+        "url": "https://example.com",
+        "logoUrl": "https://dummyimage.com/64x64/222/fff.png&text=EBD"
+      },
+      "author": "Mina Ochoa",
+      "publishedAt": "2025-08-11T11:20:00Z",
+      "language": "en",
+      "country": "DE",
+      "category": "Business",
+      "tags": ["startups", "climate", "energy"],
+      "readingTimeMinutes": 6
+    },
+    {
+      "id": "a-0005",
+      "title": "Local Elections See Record Turnout",
+      "description": "Officials reported long lines and high participation across major cities.",
+      "url": "https://example.com/world/local-elections-turnout",
+      "publisher": {
+        "name": "Civic Times",
+        "logoUrl": "https://dummyimage.com/64x64/2a2/fff.png&text=CT"
+      },
+      "publishedAt": "2025-07-06T06:45:00Z",
+      "language": "en",
+      "country": "GB",
+      "category": "World",
+      "tags": ["elections", "civic", "policy"]
+    },
+    {
+      "id": "a-0006",
+      "title": "Space Telescope Captures New Images of Distant Galaxy",
+      "description": "Astronomers say the findings could refine theories about early star formation.",
+      "url": "https://example.com/science/telescope-distant-galaxy",
+      "imageUrl": "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?w=1200&auto=format&fit=crop",
+      "publisher": {
+        "name": "Science Journal",
+        "url": "https://example.com/science"
+      },
+      "author": "Alex Chen",
+      "publishedAt": "2025-11-02T19:00:00Z",
+      "language": "en",
+      "category": "Science",
+      "tags": ["space", "astronomy", "research"],
+      "readingTimeMinutes": 4,
+      "sourceType": "Magazine"
+    },
+    {
+      "id": "a-0007",
+      "title": "FinTech App Adds Instant International Transfers",
+      "description": "Users can now send money to supported countries with transparent fees.",
+      "url": "https://example.com/tech/fintech-instant-transfers",
+      "publisher": {
+        "name": "Tech Pulse",
+        "url": "https://example.com/tech",
+        "logoUrl": "https://dummyimage.com/64x64/223/fff.png&text=TP"
+      },
+      "publishedAt": "2025-06-10T13:30:00Z",
+      "language": "en",
+      "country": "SG",
+      "category": "Tech",
+      "tags": ["fintech", "payments", "apps"],
+      "readingTimeMinutes": 3
+    },
+    {
+      "id": "a-0008",
+      "title": "Art Exhibition Explores Modern Minimalism",
+      "description": "Curators highlight emerging artists blending sculpture and digital media.",
+      "url": "https://example.com/culture/minimalism-exhibition",
+      "publisher": {
+        "name": "Culture Desk"
+      },
+      "publishedAt": "2025-05-19T09:00:00Z",
+      "language": "en",
+      "category": "Culture",
+      "tags": ["art", "exhibition", "design"]
+    },
+    {
+      "id": "a-0009",
+      "title": "اقتصاد المنطقة يشهد نموًا متسارعًا",
+      "description": "تقرير جديد يشير إلى ارتفاع الاستثمارات في قطاعات التكنولوجيا والطاقة.",
+      "url": "https://example.com/world/regional-economy-growth",
+      "publisher": {
+        "name": "Global Arabic News",
+        "url": "https://example.com/ar",
+        "logoUrl": "https://dummyimage.com/64x64/444/fff.png&text=AR"
+      },
+      "publishedAt": "2025-04-02T10:15:00Z",
+      "language": "ar",
+      "country": "AE",
+      "category": "World",
+      "tags": ["economy", "investment", "energy"],
+      "sourceType": "Newswire"
+    },
+    {
+      "id": "a-0010",
+      "title": "New Policy Draft Targets Online Safety",
+      "description": "Regulators propose updated requirements for transparency and reporting.",
+      "url": "https://example.com/world/online-safety-policy-draft",
+      "publisher": {
+        "name": "Civic Times",
+        "logoUrl": "https://dummyimage.com/64x64/2a2/fff.png&text=CT"
+      },
+      "author": "Samira Q.",
+      "publishedAt": "2025-03-11T17:40:00Z",
+      "updatedAt": "2025-03-12T09:05:00Z",
+      "language": "en",
+      "country": "CA",
+      "category": "World",
+      "tags": ["policy", "internet", "safety"],
+      "readingTimeMinutes": 8
+    },
+    {
+      "id": "a-0011",
+      "title": "How to Build a Great Morning Routine",
+      "description": "Small changes can help you feel more focused and energized during the day.",
+      "url": "https://example.com/lifestyle/morning-routine",
+      "publisher": {
+        "name": "Everyday Living",
+        "url": "https://example.com/lifestyle",
+        "logoUrl": "https://dummyimage.com/64x64/555/fff.png&text=EL"
+      },
+      "publishedAt": "2025-02-06T07:00:00Z",
+      "language": "en",
+      "category": "Lifestyle",
+      "tags": ["wellbeing", "habits"]
+    },
+    {
+      "id": "a-0012",
+      "title": "Open-Source Project Releases Major Update",
+      "description": "The update focuses on performance improvements and developer experience.",
+      "url": "https://example.com/tech/open-source-major-update",
+      "publisher": {
+        "name": "Dev Weekly",
+        "url": "https://example.com/dev",
+        "logoUrl": "https://dummyimage.com/64x64/116/fff.png&text=DW"
+      },
+      "author": "Chris W.",
+      "publishedAt": "2025-01-21T14:00:00Z",
+      "language": "en",
+      "category": "Tech",
+      "tags": ["opensource", "performance", "developers"],
+      "readingTimeMinutes": 6,
+      "sourceType": "Blog"
+    },
+    {
+      "id": "a-0013",
+      "title": "Nouvelles tendances dans la cybersécurité",
+      "description": "Les entreprises renforcent leurs systèmes face à l’augmentation des attaques.",
+      "url": "https://example.com/tech/cybersecurite-tendances",
+      "publisher": {
+        "name": "Sécurité Numérique",
+        "url": "https://example.com/fr"
+      },
+      "publishedAt": "2025-11-10T09:30:00Z",
+      "language": "fr",
+      "country": "FR",
+      "category": "Tech",
+      "tags": ["cybersecurity", "security", "enterprise"]
+    },
+    {
+      "id": "a-0014",
+      "title": "Energy Prices Dip as Supply Improves",
+      "description": "Analysts point to easing constraints and seasonal demand shifts.",
+      "url": "https://example.com/business/energy-prices-dip",
+      "publisher": {
+        "name": "Example Business Daily",
+        "url": "https://example.com"
+      },
+      "publishedAt": "2025-09-08T12:10:00Z",
+      "language": "en",
+      "category": "Business",
+      "tags": ["energy", "markets"]
+    },
+    {
+      "id": "a-0015",
+      "title": "Design Systems: Practical Tips for Consistency",
+      "description": "A guide to tokens, components, and documentation that teams actually use.",
+      "url": "https://example.com/design/design-systems-consistency",
+      "publisher": {
+        "name": "Culture Desk"
+      },
+      "author": "Uma S.",
+      "publishedAt": "2025-10-28T10:00:00Z",
+      "language": "en",
+      "category": "Culture",
+      "tags": ["design", "systems", "ui"],
+      "readingTimeMinutes": 9
+    },
+    {
+      "id": "a-0016",
+      "title": "Wildlife Conservation Efforts Show Early Results",
+      "description": "New monitoring programs suggest population stabilization in key habitats.",
+      "url": "https://example.com/science/wildlife-conservation-results",
+      "publisher": {
+        "name": "Science Journal",
+        "url": "https://example.com/science"
+      },
+      "publishedAt": "2025-08-30T16:25:00Z",
+      "language": "en",
+      "country": "KE",
+      "category": "Science",
+      "tags": ["wildlife", "conservation", "research"],
+      "sourceType": "Magazine"
+    },
+    {
+      "id": "a-0017",
+      "title": "Quarterly Results: Revenue Beats Expectations",
+      "description": "The company cited strong demand and improved operational efficiency.",
+      "url": "https://example.com/business/quarterly-results-revenue-beat",
+      "publisher": {
+        "name": "Markets Wire",
+        "logoUrl": "https://dummyimage.com/64x64/1a1/fff.png&text=MW"
+      },
+      "author": "N. Patel",
+      "publishedAt": "2025-11-12T20:10:00Z",
+      "language": "en",
+      "category": "Business",
+      "tags": ["earnings", "revenue", "stocks"],
+      "readingTimeMinutes": 4,
+      "sourceType": "Newswire"
+    },
+    {
+      "id": "a-0018",
+      "title": "New Museum Opens With Interactive Exhibits",
+      "description": "Visitors can explore hands-on installations combining sound, light, and motion.",
+      "url": "https://example.com/culture/new-museum-interactive",
+      "imageUrl": "https://images.unsplash.com/photo-1526481280695-3c687fd643ed?w=1200&auto=format&fit=crop",
+      "publisher": {
+        "name": "Everyday Living",
+        "url": "https://example.com/lifestyle"
+      },
+      "publishedAt": "2025-07-23T09:10:00Z",
+      "language": "en",
+      "country": "NL",
+      "category": "Culture",
+      "tags": ["culture", "museum", "exhibits"]
+    },
+    {
+      "id": "a-0019",
+      "title": "Breaking: Major Transit Upgrades Announced",
+      "description": "City officials unveiled a plan to reduce commute times and expand coverage.",
+      "url": "https://example.com/world/transit-upgrades-announced",
+      "publisher": {
+        "name": "World Report"
+      },
+      "publishedAt": "2025-11-15T06:05:00Z",
+      "language": "en",
+      "category": "World",
+      "tags": ["infrastructure", "cities", "transport"],
+      "sourceType": "Newswire"
+    },
+    {
+      "id": "a-0020",
+      "title": "Minimalist Home Office Setup on a Budget",
+      "description": "A practical checklist for building a comfortable workspace without overspending.",
+      "url": "https://example.com/lifestyle/minimalist-home-office-budget",
+      "publisher": {
+        "name": "Everyday Living",
+        "url": "https://example.com/lifestyle",
+        "logoUrl": "https://dummyimage.com/64x64/555/fff.png&text=EL"
+      },
+      "author": "Harper K.",
+      "publishedAt": "2025-09-29T07:35:00Z",
+      "language": "en",
+      "category": "Lifestyle",
+      "tags": ["design", "productivity", "budget"],
+      "readingTimeMinutes": 5,
+      "sourceType": "Blog"
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+<!-- index.html
+README (How to run + extend)
+=================================
+Run locally:
+1) Put these 4 files in the same folder:
+   - index.html
+   - styles.css
+   - app.js
+   - articles.json
+2) Start a local static server (required for fetch()):
+   - VS Code: “Live Server” → Open with Live Server
+   - Or: `python -m http.server 5500` then open http://localhost:5500
+
+Extending the JSON:
+- You can add hundreds/thousands of entries to articles.json under `articles`.
+- The UI auto-generates filter pills (Category, Publisher, Language, Tags) from the dataset.
+- Optional fields are safe to omit; the UI will show sensible fallbacks.
+
+Schema (articles.json):
+{
+  "articles": [
+    {
+      "id": "string-unique",
+      "title": "string",
+      "description": "string (short excerpt)",
+      "content": "string (optional long text)",
+      "url": "string",
+      "imageUrl": "string (optional)",
+      "publisher": {
+        "name": "string",
+        "url": "string (optional)",
+        "logoUrl": "string (optional)"
+      },
+      "author": "string (optional)",
+      "publishedAt": "ISO date string",
+      "updatedAt": "ISO date string (optional)",
+      "language": "string (e.g., en)",
+      "country": "string (optional)",
+      "category": "string (e.g., Business/Tech/World)",
+      "tags": ["string", "..."],
+      "readingTimeMinutes": 5,        // optional number
+      "sourceType": "Newswire"        // optional string
+    }
+  ]
+}
+-->
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>News</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <header class="site-header">
+    <div class="container">
+      <div class="header-row">
+        <div>
+          <h1 class="title">News</h1>
+          <p class="subtitle">Browse and filter articles with search, facets, sorting, and pagination.</p>
+        </div>
+
+        <div class="count-badge" aria-live="polite" aria-atomic="true">
+          <span id="articleCount">0</span> articles
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Sticky controls (desktop) -->
+  <section class="controls-bar" aria-label="Search and sorting controls">
+    <div class="container controls-grid">
+      <div class="field">
+        <label for="searchInput" class="label">Search</label>
+        <div class="input-wrap">
+          <input
+            id="searchInput"
+            type="search"
+            placeholder="Search title, description, publisher, tags…"
+            autocomplete="off"
+          />
+          <button id="clearSearchBtn" class="icon-btn" type="button" aria-label="Clear search">
+            ✕
+          </button>
+        </div>
+      </div>
+
+      <div class="field">
+        <label for="sortSelect" class="label">Sort</label>
+        <select id="sortSelect">
+          <option value="newest">Newest</option>
+          <option value="oldest">Oldest</option>
+          <option value="publisher_az">Publisher (A–Z)</option>
+          <option value="title_az">Title (A–Z)</option>
+        </select>
+      </div>
+
+      <div class="field">
+        <label for="pageSizeSelect" class="label">Page size</label>
+        <select id="pageSizeSelect">
+          <option value="10">10</option>
+          <option value="20" selected>20</option>
+          <option value="50">50</option>
+        </select>
+      </div>
+
+      <div class="field field-actions">
+        <span class="label">&nbsp;</span>
+        <button id="clearFiltersBtn" class="btn" type="button">
+          Clear filters
+        </button>
+      </div>
+    </div>
+  </section>
+
+  <!-- Facets -->
+  <section class="facets" aria-label="Filters">
+    <div class="container">
+      <div id="facetsMount" class="facets-grid"></div>
+    </div>
+  </section>
+
+  <main id="main" class="container" tabindex="-1">
+    <section class="results-meta" aria-label="Results information">
+      <div id="showingText" class="showing"></div>
+      <div id="statusText" class="status" role="status" aria-live="polite"></div>
+    </section>
+
+    <section id="cardsMount" class="cards-grid" aria-label="Articles">
+      <!-- skeletons / cards -->
+    </section>
+
+    <nav class="pagination" aria-label="Pagination">
+      <div id="paginationMount" class="pagination-inner"></div>
+    </nav>
+
+    <footer class="site-footer">
+      <p class="muted">
+        Tip: your current state is shareable via the URL query params (q, sort, page, pageSize, category, publishers, languages, tags).
+      </p>
+    </footer>
+  </main>
+
+  <template id="skeletonTemplate">
+    <article class="card card-skeleton" aria-hidden="true">
+      <div class="thumb skeleton"></div>
+      <div class="card-body">
+        <div class="skeleton line w-80"></div>
+        <div class="skeleton line w-50"></div>
+        <div class="skeleton line w-90"></div>
+        <div class="skeleton line w-70"></div>
+        <div class="skeleton chips"></div>
+      </div>
+    </article>
+  </template>
+
+  <template id="emptyTemplate">
+    <div class="empty">
+      <h2>No results</h2>
+      <p class="muted">Try clearing filters or using a different search query.</p>
+      <button id="emptyClearBtn" class="btn" type="button">Clear filters</button>
+    </div>
+  </template>
+
+  <template id="errorTemplate">
+    <div class="empty">
+      <h2>Couldn’t load articles.json</h2>
+      <p class="muted">
+        Make sure you’re running a local server (not opening the file directly),
+        and that <code>./articles.json</code> exists and is valid JSON.
+      </p>
+      <button id="retryBtn" class="btn" type="button">Retry</button>
+    </div>
+  </template>
+
+  <script src="./app.js"></script>
+</body>
+</html>
