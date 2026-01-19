@@ -1,6 +1,135 @@
 {
   "articles": [
     {
+      "id": "d-0001",
+      "title": "India’s Dog Bite Crisis: Around 22 Lakh Cases Reported in 2024",
+      "description": "Government data shows nearly 22 lakh dog bite cases in India in 2024, with over 5 lakh victims under 15 years of age.",
+      "content": "About 21,95,122 dog bite cases were reported in India during 2024 — of these, 519,704 involved children under 15 years of age, according to government data presented in Parliament. Stray dogs and related bite incidents continue to pose a major public health challenge. :contentReference[oaicite:0]{index=0}",
+      "url": "https://indianexpress.com/article/india/dog-bite-cases-reported-in-2024-children-victims-9817586/",
+      "imageUrl": "https://images.indianexpress.com/2025/02/dog-bite.jpg?w=1600",
+      "publisher": { "name": "The Indian Express", "url": "https://indianexpress.com", "logoUrl": "https://static.indianexpress.com/wp-content/uploads/2022/03/IndianExpress_Logo.png" },
+      "author": "Harikishan Sharma",
+      "publishedAt": "2025-02-05T10:33:00Z",
+      "updatedAt": "2025-02-05T10:33:00Z",
+      "language": "en",
+      "country": "IN",
+      "category": "News",
+      "tags": ["dog bite", "children", "health"],
+      "readingTimeMinutes": 3,
+      "sourceType": "News Website"
+    },
+    {
+      "id": "d-0002",
+      "title": "Around 14 People, Including 8-Year-Old, Injured in Dog Attack in Tamil Nadu",
+      "description": "Residents of Kattaiyapuram reported multiple people, including a child, were bitten by an aggressive dog.",
+      "content": "According to local posts, around 14 people — including an eight-year-old child — sustained level-3 dog bite injuries after a dog attacked residents of Kattaiyapuram village. :contentReference[oaicite:1]{index=1}",
+      "url": "https://www.facebook.com/thenewindianxpress/posts/around-14-persons-including-an-eight-year-old-child-sustained-level-3-dog-bite-i/1358752272962494/",
+      "imageUrl": "https://images.pexels.com/photos/4587993/pexels-photo-4587993.jpeg",
+      "publisher": { "name": "The New Indian Express", "url": "https://newindianexpress.com" },
+      "publishedAt": "2025-12-10T09:15:00Z",
+      "language": "en",
+      "country": "IN",
+      "category": "News",
+      "tags": ["dog bite", "child", "Tamil Nadu"],
+      "readingTimeMinutes": 3,
+      "sourceType": "Social Post"
+    },
+    {
+      "id": "d-0003",
+      "title": "Dog Bites Rise in Tambaram; Residents Cite Poor Enforcement",
+      "description": "Dog bite cases are rising sharply in Tambaram with dozens reported weekly.",
+      "content": "In Tambaram, Chennai, residents are alarmed by a surge in dog bite incidents, saying enforcement of safety orders is weak. Over 450 cases were reported in recent weeks. :contentReference[oaicite:2]{index=2}",
+      "url": "https://timesofindia.indiatimes.com/city/chennai/dog-bites-rise-in-tambaram-residents-cite-poor-enforcement/articleshow/126490727.cms",
+      "imageUrl": "https://timesofindia.indiatimes.com/photo/126490727.cms",
+      "publisher": { "name": "Times of India", "url": "https://timesofindia.indiatimes.com" },
+      "publishedAt": "2026-01-13T08:30:00Z",
+      "language": "en",
+      "country": "IN",
+      "category": "News",
+      "tags": ["dog bite", "public safety", "Tamil Nadu"],
+      "readingTimeMinutes": 4,
+      "sourceType": "News Website"
+    },
+    {
+      "id": "d-0004",
+      "title": "Punjab Govt Extends Anti-Rabies Vaccination After High Dog Bite Cases",
+      "description": "Punjab expands free anti-rabies vaccination to more clinics to protect children and adults.",
+      "content": "To address the significant number of dog bite cases — including those among children — Punjab extended anti-rabies vaccine access to 881 clinics across the state. :contentReference[oaicite:3]{index=3}",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/3l-dog-bite-cases-yearly-punjab-govt-extends-anti-rabies-vaccine-to-881-clinics/articleshow/126511184.cms",
+      "imageUrl": "https://timesofindia.indiatimes.com/photo/126511184.cms",
+      "publisher": { "name": "Times of India", "url": "https://timesofindia.indiatimes.com" },
+      "publishedAt": "2026-01-15T07:45:00Z",
+      "language": "en",
+      "country": "IN",
+      "category": "Health",
+      "tags": ["dog bite", "children", "vaccination"],
+      "readingTimeMinutes": 4,
+      "sourceType": "News Website"
+    },
+    {
+      "id": "d-0005",
+      "title": "Supreme Court Orders Relocation of Stray Dogs to Shelters",
+      "description": "India’s Supreme Court directs authorities to relocate stray dogs from public places to shelters.",
+      "content": "The Supreme Court ordered authorities in Delhi and surrounding areas to remove stray dogs from public spaces and relocate them to shelters within set deadlines, citing rising dog-bite concerns. :contentReference[oaicite:4]{index=4}",
+      "url": "https://www.reuters.com/world/india/indias-top-court-orders-delhi-authorities-move-stray-dogs-shelters-2025-08-11/",
+      "imageUrl": "https://static.reuters.com/resources/r/?m=02&d=20250811&t=2&i=1592867439&r=LYNXNPEJ7A0EL",
+      "publisher": { "name": "Reuters", "url": "https://reuters.com" },
+      "publishedAt": "2025-08-11T11:00:00Z",
+      "language": "en",
+      "country": "IN",
+      "category": "World",
+      "tags": ["Supreme Court", "stray dogs", "policy"],
+      "readingTimeMinutes": 4,
+      "sourceType": "News Website"
+    },
+    {
+      "id": "d-0006",
+      "title": "For Every Dog Bite, Heavy Compensation Likely On States: SC",
+      "description": "Supreme Court warns states may be asked to pay compensation for each child or elderly victim of dog bites.",
+      "content": "The Supreme Court cautioned that state governments could face compensation liabilities for deaths or injuries from dog bites if they fail to implement stray dog control rules effectively. :contentReference[oaicite:5]{index=5}",
+      "url": "https://www.ndtv.com/india-news/supreme-court-dog-bite-stray-dogs-live-for-every-dog-bite-we-are-likely-to-big-supreme-court-remark-10740565",
+      "imageUrl": "https://images.ndtv.com/news/2026/jan/sc-fine-dog-bite.jpg",
+      "publisher": { "name": "NDTV", "url": "https://ndtv.com" },
+      "publishedAt": "2026-01-13T12:30:00Z",
+      "language": "en",
+      "country": "IN",
+      "category": "World",
+      "tags": ["Supreme Court", "dog bite", "compensation"],
+      "readingTimeMinutes": 4,
+      "sourceType": "News Website"
+    },
+    {
+      "id": "d-0007",
+      "title": "When Law Bites Back: India’s Unresolved Stray Dog Debate",
+      "description": "Supreme Court emphasizes public safety in stray dog hearing, balancing rights of humans and animals.",
+      "content": "In recent hearings, the Supreme Court stressed that public safety — especially of children and the elderly — cannot be overlooked while managing stray dog populations, and highlighted the need for accountability in enforcement. :contentReference[oaicite:6]{index=6}",
+      "url": "https://timesofindia.indiatimes.com/india/when-law-bites-back-indias-unresolved-stray-dog-debate/articleshow/126637770.cms",
+      "imageUrl": "https://timesofindia.indiatimes.com/photo/126637770.cms",
+      "publisher": { "name": "Times of India", "url": "https://timesofindia.indiatimes.com" },
+      "publishedAt": "2026-01-18T11:38:00Z",
+      "language": "en",
+      "country": "IN",
+      "category": "World",
+      "tags": ["Supreme Court", "stray dogs", "policy"],
+      "readingTimeMinutes": 4,
+      "sourceType": "News Website"
+    },
+    {
+      "id": "d-0008",
+      "title": "Celebrities Criticise SC’s Stray Dog Removal Directive",
+      "description": "Celebrities like Janhvi Kapoor and Varun Dhawan speak out against the Supreme Court order to remove stray dogs. :contentReference[oaicite:7]{index=7}",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/janhvi-kapoor-and-varun-dhawan-speak-out-against-the-supreme-courts-order-to-remove-stray-dogs-from-delhi-streets/articleshow/123250336.cms",
+      "imageUrl": "https://timesofindia.indiatimes.com/photo/123250336.cms",
+      "publisher": { "name": "Times of India", "url": "https://timesofindia.indiatimes.com" },
+      "publishedAt": "2025-08-13T12:00:00Z",
+      "language": "en",
+      "country": "IN",
+      "category": "Entertainment",
+      "tags": ["celebrity", "Supreme Court", "stray dogs"],
+      "readingTimeMinutes": 4,
+      "sourceType": "News Website"
+    },
+    {
       "id": "d-0009",
       "title": "Stray Dogs Attack Children in Nagpur, Spark Panic",
       "description": "Several children mauled by stray dogs in Nagpur’s Salfiyabad Colony, residents demand action.",
@@ -160,8 +289,277 @@
       "tags": ["celebrity", "Supreme Court", "stray dogs"],
       "readingTimeMinutes": 5,
       "sourceType": "News Website"
-    }
+    },
+    {
+      "id": "d-0019",
+      "title": "India’s Dog Bite Crisis: Around 22 Lakh Cases Reported in 2024",
+      "description": "Government data shows nearly 22 lakh dog bite cases in India in 2024, with over 5 lakh victims under 15 years of age.",
+      "content": "About 21,95,122 dog bite cases were reported in India during 2024 — of these, 519,704 involved children under 15 years of age, according to government data presented in Parliament. Stray dogs and related bite incidents continue to pose a major public health challenge. :contentReference[oaicite:0]{index=0}",
+      "url": "https://indianexpress.com/article/india/dog-bite-cases-reported-in-2024-children-victims-9817586/",
+      "imageUrl": "https://images.indianexpress.com/2025/02/dog-bite.jpg?w=1600",
+      "publisher": {
+        "name": "The Indian Express",
+        "url": "https://indianexpress.com",
+        "logoUrl": "https://static.indianexpress.com/wp-content/uploads/2022/03/IndianExpress_Logo.png"
+      },
+      "author": "Harikishan Sharma",
+      "publishedAt": "2025-02-05T10:33:00Z",
+      "language": "en",
+      "country": "IN",
+      "category": "News",
+      "tags": ["dog bite", "children", "public health", "India"],
+      "readingTimeMinutes": 3,
+      "sourceType": "News Website"
+    },
+    {
+      "id": "d-0020",
+      "title": "Toddler Survives Attack by Pack of Stray Dogs in Belagavi",
+      "description": "A two-year-old was severely bitten by a pack of stray dogs while playing near his home in Belagavi.",
+      "content": "A toddler was grievously injured after seven to eight stray dogs suddenly attacked and bit him multiple times. Local residents rescued the child, who was admitted for treatment, prompting fear and anger in the neighbourhood. :contentReference[oaicite:1]{index=1}",
+      "url": "https://timesofindia.indiatimes.com/city/hubballi/toddler-survives-attack-by-pack-of-stray-dogs-in-belagavi/articleshow/126337767.cms",
+      "imageUrl": "https://timesofindia.indiatimes.com/photo/126337767.cms",
+      "publisher": {
+        "name": "Times of India",
+        "url": "https://timesofindia.indiatimes.com"
+      },
+      "publishedAt": "2026-01-04T23:22:00Z",
+      "language": "en",
+      "country": "IN",
+      "category": "News",
+      "tags": ["dog bite", "child", "Belagavi"],
+      "readingTimeMinutes": 4,
+      "sourceType": "News Website"
+    },
+    {
+      "id": "d-0021",
+      "title": "6-Year-Old Girl Dies of Rabies Despite Treatment in Thane",
+      "description": "A six-year-old girl bitten by a community dog died of rabies despite completing treatment.",
+      "content": "The child from Diva, bitten on shoulder and cheeks by a community dog, completed a month of post-bite treatment, but later developed rabies symptoms and died, raising questions about stray dog control measures. :contentReference[oaicite:2]{index=2}",
+      "url": "https://timesofindia.indiatimes.com/city/thane/seemed-completely-fine-6-year-old-girl-dies-of-rabies-despite-treatment-in-thane-raises-questions-on-stray-dog-control/articleshow/126152888.cms",
+      "imageUrl": "https://timesofindia.indiatimes.com/photo/126152888.cms",
+      "publisher": {
+        "name": "Times of India",
+        "url": "https://timesofindia.indiatimes.com"
+      },
+      "publishedAt": "2025-12-24T10:44:00Z",
+      "language": "en",
+      "country": "IN",
+      "category": "Health",
+      "tags": ["dog bite", "rabies", "child", "Thane"],
+      "readingTimeMinutes": 4,
+      "sourceType": "News Website"
+    },
+    {
+      "id": "d-0022",
+      "title": "When Law Bites Back: India’s Unresolved Stray Dog Debate",
+      "description": "In 2024 India logged over 3.7 million dog bite cases, with 54 suspected rabies deaths, prompting legal debate on stray dogs. :contentReference[oaicite:3]{index=3}",
+      "content": "World Atlas and NCDC data show India ranks seventh globally for dog population. The spike in bites and rabies deaths has triggered legal scrutiny and debate over stray dog management strategies. :contentReference[oaicite:4]{index=4}",
+      "url": "https://timesofindia.indiatimes.com/india/when-law-bites-back-indias-unresolved-stray-dog-debate/articleshow/126637770.cms",
+      "imageUrl": "https://timesofindia.indiatimes.com/photo/126637770.cms",
+      "publisher": {
+        "name": "Times of India",
+        "url": "https://timesofindia.indiatimes.com"
+      },
+      "publishedAt": "2026-01-18T11:38:00Z",
+      "language": "en",
+      "country": "IN",
+      "category": "World",
+      "tags": ["dog bite", "policy", "public health", "India"],
+      "readingTimeMinutes": 4,
+      "sourceType": "News Website"
+    },
+    {
+      "id": "d-0023",
+      "title": "100 Dog Bites a Day, Chandigarh Faces Stray Dog Crisis",
+      "description": "Chandigarh logs an average of over 100 dog bite cases daily and plans a dedicated shelter. :contentReference[oaicite:5]{index=5}",
+      "content": "The city recorded 36,515 bite incidents in 11 months, prompting efforts to build a two-storey dog shelter aligned with welfare and SC directives to ease the strain on residents. :contentReference[oaicite:6]{index=6}",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/100-dog-bites-a-day-chandigarh-raises-guard-against-stray-terror/articleshow/126492233.cms",
+      "imageUrl": "https://timesofindia.indiatimes.com/photo/126492233.cms",
+      "publisher": {
+        "name": "Times of India",
+        "url": "https://timesofindia.indiatimes.com"
+      },
+      "publishedAt": "2026-01-13T07:00:00Z",
+      "language": "en",
+      "country": "IN",
+      "category": "News",
+      "tags": ["dog bite", "Chandigarh", "public health"],
+      "readingTimeMinutes": 4,
+      "sourceType": "News Website"
+    },
+    {
+      "id": "d-0024",
+      "title": "Supreme Court Orders Removal of Stray Dogs From Delhi NCR",
+      "description": "India’s Supreme Court orders authorities to relocate stray dogs from public areas in NCR amid rising bites. :contentReference[oaicite:7]{index=7}",
+      "content": "In a landmark hearing, SC pulled up local authorities for stray dog menace and directed relocation of strays to shelters, citing public safety concerns. :contentReference[oaicite:8]{index=8}",
+      "url": "https://www.financialexpress.com/india-news/supreme-court-hearing-on-delhi-stray-dogs-live-updates-dog-relocation-shelters-ncr-noida-gurugram/3946180/",
+      "imageUrl": "https://images.financialexpress.com/wp-content/uploads/2025/08/stray-dogs-court-india.jpg",
+      "publisher": {
+        "name": "Financial Express",
+        "url": "https://financialexpress.com"
+      },
+      "publishedAt": "2025-08-11T14:00:00Z",
+      "language": "en",
+      "country": "IN",
+      "category": "World",
+      "tags": ["Supreme Court", "stray dogs", "policy"],
+      "readingTimeMinutes": 4,
+      "sourceType": "News Website"
+    },
+    {
+      "id": "d-0025",
+      "title": "Supreme Court Stray Dogs Case Transferred to New Bench Ahead of Hearing",
+      "description": "CJI assigns stray dog case to a fresh 3-judge bench for further hearings. :contentReference[oaicite:9]{index=9}",
+      "content": "The Supreme Court has shifted the suo motu stray dogs case to a new bench headed by Justices Vikram Nath and others, to hear public safety and welfare aspects. :contentReference[oaicite:10]{index=10}",
+      "url": "https://www.deccanherald.com/india/supreme-court-order-on-stray-dogs-cji-gavai-shifts-matter-to-fresh-3-judge-bench-to-be-heard-on-august-14-3679561.html",
+      "imageUrl": "https://images.deccanherald.com/sites/dh/files/articleimages/2025/08/14/sc-dogs-0814.jpg",
+      "publisher": {
+        "name": "Deccan Herald",
+        "url": "https://deccanherald.com"
+      },
+      "publishedAt": "2025-08-14T10:00:00Z",
+      "language": "en",
+      "country": "IN",
+      "category": "World",
+      "tags": ["Supreme Court", "stray dogs", "hearing"],
+      "readingTimeMinutes": 4,
+      "sourceType": "News Website"
+    },
+    {
+      "id": "d-0026",
+      "title": "Supreme Court Sees Surge in Pleas in Stray Dogs Case",
+      "description": "SC observes unusually high number of applications filed in stray dog case hearings. :contentReference[oaicite:11]{index=11}",
+      "content": "Justice Nath and Justice Mehta noted an unprecedented volume of interlocutory applications in the stray dogs case, a level not often seen even in human rights cases. :contentReference[oaicite:12]{index=12}",
+      "url": "https://timesofindia.indiatimes.com/india/not-even-in-human-cases-sc-observes-surge-in-pleas-over-stray-dogs-case-hearing-on-wednesday/articleshow/126372792.cms",
+      "imageUrl": "https://timesofindia.indiatimes.com/photo/126372792.cms",
+      "publisher": {
+        "name": "Times of India",
+        "url": "https://timesofindia.indiatimes.com"
+      },
+      "publishedAt": "2026-01-06T19:00:00Z",
+      "language": "en",
+      "country": "IN",
+      "category": "World",
+      "tags": ["Supreme Court", "stray dogs", "pleas"],
+      "readingTimeMinutes": 4,
+      "sourceType": "News Website"
+    },
+    {
+      "id": "d-0027",
+      "title": "Public Opinion Divided Over Supreme Court’s Stray Dog Order",
+      "description": "Public, politicians, and celebrities are divided on the SC order to relocate stray dogs. :contentReference[oaicite:13]{index=13}",
+      "content": "Business Standard reports that while some support SC’s safety concerns, others criticise the directive as inhumane and impractical, calling for humane sterilisation and vaccination. :contentReference[oaicite:14]{index=14}",
+      "url": "https://www.business-standard.com/india-news/public-opinion-widely-divided-over-supreme-court-s-order-on-stray-dogs-125081202113_1.html",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-08/15/full/162897.jpg",
+      "publisher": {
+        "name": "Business Standard",
+        "url": "https://business-standard.com"
+      },
+      "publishedAt": "2025-08-15T11:00:00Z",
+      "language": "en",
+      "country": "IN",
+      "category": "World",
+      "tags": ["Supreme Court", "stray dogs", "public opinion"],
+      "readingTimeMinutes": 4,
+      "sourceType": "News Website"
+    },
 
+    {
+      "id": "d-0028",
+      "title": "Celebrities React to SC’s Stray Dog Removal Order",
+      "description": "Bollywood stars including John Abraham, Janhvi Kapoor and Vir Das criticise the SC directive on stray dogs. :contentReference[oaicite:15]{index=15}",
+      "content": "Following the SC order on Aug 11 to remove stray dogs from Delhi-NCR, actors and entertainers called for a review, urging humane solutions such as sterilisation and shelter reform. :contentReference[oaicite:16]{index=16}",
+      "url": "https://www.ndtv.com/entertainment/vir-das-janhvi-kapoor-john-abraham-call-out-supreme-court-order-on-strays-dogs-are-delhiites-9068072",
+      "imageUrl": "https://media.ndtv.com/entertainment/john-abraham-stray-dogs.jpg",
+      "publisher": {
+        "name": "NDTV",
+        "url": "https://ndtv.com"
+      },
+      "publishedAt": "2025-08-12T07:30:00Z",
+      "language": "en",
+      "country": "IN",
+      "category": "Entertainment",
+      "tags": ["celebrity", "Supreme Court", "stray dogs"],
+      "readingTimeMinutes": 5,
+      "sourceType": "News Website"
+    },
+    {
+      "id": "d-0029",
+      "title": "Ram Gopal Varma Criticises Dog Lovers After SC Order",
+      "description": "Filmmaker Ram Gopal Varma slams critics of the Supreme Court’s stray dog relocation policy. :contentReference[oaicite:17]{index=17}",
+      "content": "Varma questioned the practicality of shelters and vaccination drives, suggesting more aggressive action to protect public safety, citing ongoing bite and rabies concerns. :contentReference[oaicite:18]{index=18}",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ram-gopal-varma-slams-dumb-dog-lovers-after-supreme-courts-order-you-cant-see-children-being-bitten-mauled-and-killed/articleshow/123434928.cms",
+      "imageUrl": "https://timesofindia.indiatimes.com/photo/123434928.cms",
+      "publisher": {
+        "name": "Times of India",
+        "url": "https://timesofindia.indiatimes.com"
+      },
+      "publishedAt": "2025-08-05T11:45:00Z",
+      "language": "en",
+      "country": "IN",
+      "category": "Entertainment",
+      "tags": ["celebrity", "Supreme Court", "stray dogs"],
+      "readingTimeMinutes": 4,
+      "sourceType": "News Website"
+    },
+    {
+      "id": "d-0030",
+      "title": "Vahbbiz Dorabjee Reacts to Supreme Court Stray Dog Ruling",
+      "description": "TV actress Vahbbiz Dorabjee calls the SC dog shelter directive 'absolute shock' and ineffective. :contentReference[oaicite:19]{index=19}",
+      "content": "In an exclusive interview, Vahbbiz Dorabjee criticised the Supreme Court’s order to move stray dogs to shelters, saying humane alternatives are needed. :contentReference[oaicite:20]{index=20}",
+      "url": "https://timesofindia.indiatimes.com/tv/news/hindi/vahbbiz-dorabjee-reacts-to-supreme-court-stray-dog-ruling-caging-these-voices-is-not-a-solution/articleshow/123278735.cms",
+      "imageUrl": "https://timesofindia.indiatimes.com/photo/123278735.cms",
+      "publisher": {
+        "name": "Times of India",
+        "url": "https://timesofindia.indiatimes.com"
+      },
+      "publishedAt": "2025-08-14T12:03:00Z",
+      "language": "en",
+      "country": "IN",
+      "category": "Entertainment",
+      "tags": ["celebrity", "Supreme Court", "stray dogs"],
+      "readingTimeMinutes": 5,
+      "sourceType": "News Website"
+    },
+
+    {
+      "id": "d-0031",
+      "title": "MCD Proposes Microchipping and Vaccination Drive for Stray Dogs in Delhi",
+      "description": "MCD plans digital tracking and microchipping of stray dogs to better monitor bites and vaccination. :contentReference[oaicite:21]{index=21}",
+      "content": "The Municipal Corporation of Delhi proposed microchipping stray dogs with digital IDs, improving tracking, vaccination, and bite complaint controls across the city. :contentReference[oaicite:22]{index=22}",
+      "url": "https://timesofindia.indiatimes.com/city/delhi/mcd-proposes-microchipping-mass-vaccination-drive-to-improve-monitoring-of-stray-dogs/articleshow/126511121.cms",
+      "imageUrl": "https://timesofindia.indiatimes.com/photo/126511121.cms",
+      "publisher": {
+        "name": "Times of India",
+        "url": "https://timesofindia.indiatimes.com"
+      },
+      "publishedAt": "2026-01-14T12:00:00Z",
+      "language": "en",
+      "country": "IN",
+      "category": "News",
+      "tags": ["stray dogs", "vaccination", "policy"],
+      "readingTimeMinutes": 4,
+      "sourceType": "News Website"
+    },
+    {
+      "id": "d-0032",
+      "title": "Belagavi Steps Up Stray Dog Control After Toddler Attack",
+      "description": "Belagavi authorities accelerate stray dog control following a toddler attack. :contentReference[oaicite:23]{index=23}",
+      "content": "After a toddler was critically injured in a stray dog attack, Belagavi city corporation finished a shelter and care centre, started sterilisation surgeries, and designated feeding zones. :contentReference[oaicite:24]{index=24}",
+      "url": "https://timesofindia.indiatimes.com/city/hubballi/belagavi-steps-up-stray-dog-control-measures-after-attack-on-toddler/articleshow/126419573.cms",
+      "imageUrl": "https://timesofindia.indiatimes.com/photo/126419573.cms",
+      "publisher": {
+        "name": "Times of India",
+        "url": "https://timesofindia.indiatimes.com"
+      },
+      "publishedAt": "2026-01-08T23:18:00Z",
+      "language": "en",
+      "country": "IN",
+      "category": "News",
+      "tags": ["stray dogs", "public safety", "Belagavi"],
+      "readingTimeMinutes": 4,
+      "sourceType": "News Website"
+    }
   ]
 }
 
